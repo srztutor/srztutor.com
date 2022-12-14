@@ -53,10 +53,7 @@ h1{
 	text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px darkgrey;
 }
 .welcomeH{
-	padding-left: 12%;
-	padding-right: 12%;
-	padding-top: 32%;
-	padding-bottom: 32%;
+	padding: 12%;
 }
 .welcomeS{
 	padding: 2%;
@@ -130,4 +127,19 @@ p{
 	width: 350px;
 	padding-right: 5%;
 	padding-left: 5%;
+}
+
+@media screen and (max-width:900px) {
+	.welcomeH{	
+		padding-left: 12%;
+		padding-right: 12%;
+		padding-top: 30%;
+		padding-bottom: 30%;}
+}
+@media screen and (max-width:600) {
+	.welcomeH{	
+		padding-left: 12%;
+		padding-right: 12%;
+		padding-top: 25%;
+		padding-bottom: 25%;}
 }
