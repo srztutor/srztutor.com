@@ -157,8 +157,8 @@ p{
 .contact{
 	border: 2px solid red;
 	border-radius: 12px;
-	width: 300px;
-	height: 400px;
+	width: 350px;
+	height: 500px;
 	box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
 .course{
@@ -187,7 +187,7 @@ p{
 	transition: box-shadow .2s ease-in-out;
 	white-space: nowrap;
 	position: relative;
-	top: 90px;
+	top: 150px;
 	left: 100px;
 }
 .infoLocation{
@@ -251,9 +251,6 @@ h5{
 	text-align: center;
 	width: 100px;
 }
-.msg{
-	
-}
 textarea {
 	width: 95%;
 	padding: 12px;
@@ -261,7 +258,7 @@ textarea {
 	border-radius: 4px;
 	resize: vertical;
 	position: relative;
-	top: 50px;
+	top: 80px;
 	left: 6px;
 }
 .nam{
@@ -282,5 +279,5 @@ textarea {
 	resize: vertical;
 	position: relative;
 	left: 6px;
-	top: 20px;
+	top: 40px;
 }
