@@ -141,7 +141,7 @@ p{
 		padding: 50%;
 	}
 }
-@media screen and (max-width:300) {
+@media screen and (max-width:200) {
 	.welcomeH{	
 		padding: 60%;
 	}
