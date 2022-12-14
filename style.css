@@ -183,14 +183,38 @@ p{
 	background-color: #008CBA;
 	color: white;
 }
-.info{
+.infoLocation{
 	width: 500px;
 	height: 40px;
 	position: relative;
-	top: 0px;
-	left: 0px;
+	top: 50px;
+	left: 10px;
 	display: flex;
-	gap: 170px;
+	gap: 5px;
+	align-items: center;
+	padding: 5px;
+	align-content:center;
+}
+.infoPhone{
+	width: 500px;
+	height: 40px;
+	position: relative;
+	top: 100px;
+	left: 10px;
+	display: flex;
+	gap: 5px;
+	align-items: center;
+	padding: 5px;
+	align-content:center;
+}
+.infoEmail{
+	width: 500px;
+	height: 40px;
+	position: relative;
+	top: 150px;
+	left: 10px;
+	display: flex;
+	gap: 5px;
 	align-items: center;
 	padding: 5px;
 	align-content:center;
@@ -208,5 +232,15 @@ p{
 	padding-left: 2px;
 	padding-right: 2px;
 }
-	
+.us{
+	float: left;
+}
+h5{
+	font-family: "Quicksand", sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: steelblue;
+	text-align: center;
+	width: 100px;
+}
 
