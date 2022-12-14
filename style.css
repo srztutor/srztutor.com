@@ -190,7 +190,7 @@ p{
 	position: relative;
 	top: 0px;
 	left: 0px;
-	display: inline-block;
-	justify-content: center;
+	display: flex;
+	gap: 50px;
 }
 	
