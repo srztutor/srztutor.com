@@ -171,21 +171,24 @@ p{
 	width: 350px;
 }
 .submitB {
-  background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
-  border: 0;
-  border-radius: 12px;
-  color: #FFFFFF;
-  cursor: pointer;
-  display: inline-block;
-  font-size: 14px;
-  line-height: 2.5;
-  outline: transparent;
-width: 100px;
-height: 30px;
-  text-align: center;
-  text-decoration: none;
-  transition: box-shadow .2s ease-in-out;
-  white-space: nowrap;
+	background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
+	border: 0;
+	border-radius: 12px;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 14px;
+	line-height: 2.5;
+	outline: transparent;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	text-decoration: none;
+	transition: box-shadow .2s ease-in-out;
+	white-space: nowrap;
+	position: relative;
+	top: 90px;
+	left: 100px;
 }
 .infoLocation{
 	width: 500px;
@@ -248,4 +251,36 @@ h5{
 	text-align: center;
 	width: 100px;
 }
-
+.msg{
+	
+}
+textarea {
+	width: 95%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	resize: vertical;
+	position: relative;
+	top: 50px;
+	left: 6px;
+}
+.nam{
+	width: 95%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	resize: vertical;
+	position: relative;
+	left: 6px;
+	top: 10px;
+}
+.sur {
+	width: 95%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	resize: vertical;
+	position: relative;
+	left: 6px;
+	top: 20px;
+}
