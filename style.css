@@ -59,7 +59,10 @@ h1{
 .welcomeS{
 	padding: 2%;
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
+	gap: 30px;
+	align-items: center;
+	flex-wrap: wrap;
 }
 .login{
 	background-color: white;
@@ -140,9 +143,12 @@ p{
 	.welcomeH{	
 		padding: 50%;
 	}
+	
+}
 }
 @media screen and (max-width:200) {
 	.welcomeH{	
 		padding: 60%;
 	}
+	
 }
