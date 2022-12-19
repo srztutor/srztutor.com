@@ -2,10 +2,8 @@ function linux() {
 	const bdy =  document.querySelector(".welcome");
 	let list = [];
 	let listLinks = [];
-	list.push("Exceptions");
-	list.push("Exceptions");
-	listLinks.push("https://drive.google.com/file/d/1cf-FomFuJlSp-K9pkzRTlKiAEh0mYpml/preview");
-	listLinks.push("https://drive.google.com/file/d/1cf-FomFuJlSp-K9pkzRTlKiAEh0mYpml/preview");
+	list.push("INSTALL VIRTUAL MACHINES");
+	listLinks.push("https://drive.google.com/file/d/1CmhEtdCTwDUVfNIHnd0rqUJMi-fkdfrk/preview");
 	for (let i = 0; i < listLinks.length;i++) {
 		div = document.createElement('div');
 		div.setAttribute('style',"padding:5px;width:900px;height:500px;border-radius:12px;background-color:black;position: relative;display: flex;flex-flow: column;");
@@ -31,8 +29,6 @@ function programming() {
 	let list = [];
 	let listLinks = [];
 	list.push("Exceptions");
-	list.push("Exceptions");
-	listLinks.push("https://drive.google.com/file/d/1cf-FomFuJlSp-K9pkzRTlKiAEh0mYpml/preview");
 	listLinks.push("https://drive.google.com/file/d/1cf-FomFuJlSp-K9pkzRTlKiAEh0mYpml/preview");
 	for (let i = 0; i < listLinks.length;i++) {
 		div = document.createElement('div');
@@ -58,10 +54,8 @@ function networking() {
 	const bdy =  document.querySelector(".welcome");
 	let list = [];
 	let listLinks = [];
-	list.push("Exceptions");
-	list.push("Exceptions");
-	listLinks.push("https://drive.google.com/file/d/1cf-FomFuJlSp-K9pkzRTlKiAEh0mYpml/preview");
-	listLinks.push("https://drive.google.com/file/d/1cf-FomFuJlSp-K9pkzRTlKiAEh0mYpml/preview");
+	list.push("SUBNETTING");
+	listLinks.push("https://drive.google.com/file/d/1cM4P-QvXkfNvxp33hjms8bFDk723nvRA/preview");
 	for (let i = 0; i < listLinks.length;i++) {
 		div = document.createElement('div');
 		div.setAttribute('style',"padding:5px;width:900px;height:500px;border-radius:12px;background-color:black;position: relative;display: flex;flex-flow: column;");

@@ -114,25 +114,11 @@ h1{
 	border: 2px solid #4CAF50;
 	border-radius: 12px;
 	top: 400px;
-	left: 75px;
+	left: 120px;
 }
 
 .button1:hover {
 	background-color: #4CAF50;
-	color: white;
-}
-
-.button2 {
-	background-color: white;
-	color: black;
-	border: 2px solid #008CBA;
-	border-radius: 12px;
-	top: 400px;
-	left: 155px;
-}
-
-.button2:hover {
-	background-color: #008CBA;
 	color: white;
 }
 p{
